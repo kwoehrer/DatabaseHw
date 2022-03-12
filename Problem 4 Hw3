@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-12T02:00:07.818Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="AtVMWMT2GhGDl0hDHpqm" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-12T13:15:25.858Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="q8YHIHmnuUV2hUW7W8J2" version="17.1.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -93,7 +93,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SVhdZc2wJYns0eFxZ5je-251" value="PROF_NAME" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="SVhdZc2wJYns0eFxZ5je-249" vertex="1">
+        <mxCell id="SVhdZc2wJYns0eFxZ5je-251" value="EMP_ID" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="SVhdZc2wJYns0eFxZ5je-249" vertex="1">
           <mxGeometry x="30" width="220" height="30" as="geometry">
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -822,7 +822,7 @@
             <mxPoint x="750" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SVhdZc2wJYns0eFxZ5je-321" value="has" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="SVhdZc2wJYns0eFxZ5je-320" vertex="1" connectable="0">
+        <mxCell id="SVhdZc2wJYns0eFxZ5je-321" value="contains" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="SVhdZc2wJYns0eFxZ5je-320" vertex="1" connectable="0">
           <mxGeometry x="0.0784" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
