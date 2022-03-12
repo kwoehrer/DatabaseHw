@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-12T13:37:55.835Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="1CfYE-TsqKkTw0eBxpx_" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-12T13:38:18.995Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="mqhQnTkcp-KOT2SDwb0H" version="17.1.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1422" dy="1805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -67,7 +67,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XSnqSGc5rXRqx3EBk6X8-3" value="Manu_Status" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="XSnqSGc5rXRqx3EBk6X8-1">
+        <mxCell id="XSnqSGc5rXRqx3EBk6X8-3" value="Manu_Type" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="XSnqSGc5rXRqx3EBk6X8-1">
           <mxGeometry x="30" width="220" height="30" as="geometry">
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -712,8 +712,8 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L3XZmF-C8SLfME-ADt-_-90" value="Manu_Status" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="860" y="790" width="90" height="20" as="geometry" />
+        <mxCell id="L3XZmF-C8SLfME-ADt-_-90" value="Manu_Type" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="865" y="790" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="L3XZmF-C8SLfME-ADt-_-89" value="d" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="845" y="790" width="20" height="20" as="geometry" />
